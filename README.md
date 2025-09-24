@@ -2,40 +2,20 @@
 
 # 🚀 ByteMeRadi Portfolio
 
-Welcome to my professional portfolio! I’m a passionate and results-driven software developer with a strong background in building scalable applications and delivering value through innovative solutions. This repository showcases my projects, skills, and professional journey.
+I'm a dedicated student currently pursuing a degree in Computer Science and Data Science. I enjoy working with data, exploring patterns, and building practical solutions using programming and analytical tools. With a strong foundation in Python and an interest in intelligent systems, I'm focused on developing skills that blend logic, structure, and data-driven decision-making.
 
----
-
-## 👋 About Me
-
-Hi, I'm ByteMeRadi, a dedicated developer specializing in full-stack development, cloud solutions, and modern web technologies. I thrive in collaborative environments and am committed to continuous learning.
-
-- **Location:** [Your City, Country]
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Website:** [yourwebsite.com](https://yourwebsite.com)
+Always curious and committed to continuous learning, I'm looking forward to opportunities where I can apply what I learn to real-world challenges.
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript, TypeScript, Python, Go, Java, C#
-- **Frameworks:** React, Next.js, Node.js, Django, Spring Boot
-- **Cloud:** AWS, Azure, GCP
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **Tools:** Docker, Kubernetes, Git, CI/CD, VS Code
-
----
-
-## 📂 Projects
-
-| Project Name        | Description                                                               | Tech Stack                            | Link                                         |
-|---------------------|---------------------------------------------------------------------------|----------------------------------------|----------------------------------------------|
-| **Project Alpha**   | Scalable e-commerce web app with real-time analytics                      | React, Node.js, AWS, PostgreSQL        | [Repo](https://github.com/ByteMeRadi/alpha)  |
-| **Project Beta**    | Automated cloud deployment pipeline for microservices                     | Go, Docker, Kubernetes, GCP            | [Repo](https://github.com/ByteMeRadi/beta)   |
-| **Project Gamma**   | AI-driven chatbot for customer support                                    | Python, TensorFlow, Azure              | [Repo](https://github.com/ByteMeRadi/gamma)  |
-
-*See more projects in the [Projects](./projects) folder.*
+- **Languages:** JavaScript, Python, Java
+- **Data manipulation libraries:** NumPy, Pandas, Matplotlib, Seaborn
+- **Frameworks:** 
+- **Cloud:** 
+- **Databases:** MySQL
+- **Tools:** Git, VS Code, Google-colab
 
 ---
 

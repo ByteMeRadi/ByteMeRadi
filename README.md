@@ -27,25 +27,9 @@ Always curious and committed to continuous learning, I'm looking forward to oppo
 
 ---
 
-## 📬 Contact
-
-Feel free to reach out for collaborations, freelance work, or just to connect!
-
-- [Email](mailto:your.email@example.com)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/yourhandle)
-
----
-
 ## 📄 Resume
 
 Download my latest resume [here](./resume.pdf).
-
----
-
-## ⚡ Fun Fact
-
-I love solving Rubik’s cubes and hiking in the mountains!
 
 ---
 
